@@ -2560,7 +2560,7 @@
     <string name="ci_neighbor_ne">NE</string>
     <string name="ci_neighbor_nw">NW</string>
     <string name="ci_neighbor_sw">SW</string>
-    <string name="dialog_removewithprice_title">Removal costs</string>
-    <string name="dialog_removewithprice_text">The price to remove your selection is %1$s. Do you want to proceed?</string>
+    <string name="dialog_removewithprice_title">Затраты на удаление</string>
+    <string name="dialog_removewithprice_text">Цена, чтобы удалить выбранное значение %1$s. Вы хотите продолжить?</string>
 
 </resources>
